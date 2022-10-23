@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Heather</h1>
 <h3 align="center">A passionate Web Developer from Austin</h3>
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=C3B1E1&vCenter=true&center=true&width=460&lines=software+engineer;nerd+of+all+trades;learning+enthusiast" </p>
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=C3B1E1&vCenter=true&center=true&width=460&lines=UI/UX+Developer;Learning+Enthusiast;Google+Ninja;Geek+Of+All+Trades" </p>
 
 - 🔭 I’m currently working on **a recipe website using Node.JS that will display recipes from an Spoonaculars API, add ingredients for the chosen recipe to a shopping list, and have ways for users to interact with recipes (save, search similar, etc)**
 
