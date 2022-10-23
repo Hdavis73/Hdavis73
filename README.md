@@ -52,9 +52,13 @@
 <br>
 
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hdavis73&show_icons=true&bg_color=23272e&hide_border=true&text_color=efe6f7&title_color=23272e&locale=en&layout=compact&width="100px;" alt="hdavis73" />
-<img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=hdavis73&theme=prussian&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=23272e&currStreakLabel=C3B1E1&fire=efe6f7&stroke=white&dates=efe6f7&currStreakNum=C3B1E1&ring=efe6f7&sideNums=C3B1E1&sideLabels=C3B1E1">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hdavis73&show_icons=true&bg_color=23272e&hide_border=true&text_color=efe6f7&title_color=23272e&locale=en&layout=compact&width="100px;" alt="hdavis73" />
+</p>
+
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=hdavis73&theme=prussian&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=23272e&currStreakLabel=C3B1E1&fire=efe6f7&stroke=white&dates=efe6f7&currStreakNum=C3B1E1&ring=efe6f7&sideNums=C3B1E1&sideLabels=C3B1E1">
+</p>
 <p>
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdavis73)](https://github.com/anuraghazra/github-readme-stats) -->
