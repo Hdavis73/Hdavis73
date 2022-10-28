@@ -32,7 +32,7 @@
 
 - 🔭 I’m currently working on **a recipe website using Node.JS that will display recipes from Spoonaculars API, add ingredients for the chosen recipe to a shopping list, and have ways for users to interact with recipes (save, search similar, etc)**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and Sass**
 
 - 👨‍💻 All of my projects are available at [https://davisdev.netlify.app/](https://davisdev.netlify.app/)
 
