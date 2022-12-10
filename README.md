@@ -30,7 +30,7 @@
     
     
 
-- 🔭 I’m currently working on **a recipe website using Node.JS that will display recipes from Spoonaculars API, add ingredients for the chosen recipe to a shopping list, and have ways for users to interact with recipes (save, search similar, etc), and a mock signIn/signUp project to practice using MongoDB Atlas**
+- 🔭 I’m currently working on **a book logging website where a user will be able to add to a To-Be-Read list, log all of the books they read including lots of details (plot twists, character analysis,etc) and search for a new book to read using an API. I am also creating a mock signIn/signUp project to practice using MongoDB Atlas**
 
 - 🌱 I’m currently learning **React and Sass**
 
