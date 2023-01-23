@@ -32,7 +32,7 @@
 
 - 🔭 I’m currently working on **a book logging website where a user will be able to add to a To-Be-Read list, log all of the books they read including lots of details (plot twists, character analysis,etc) and search for a new book to read using an API. After the main functions are in order I plan to add a chat/blog function where folks who are reading or have read a certain book are able to talk to each other in a group to form a book club of sorts**
 
-- 🌱 I’m currently learning **React and Sass**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://davisdev.netlify.app/](https://davisdev.netlify.app/)
 
