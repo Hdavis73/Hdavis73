@@ -30,7 +30,7 @@
     
     
 
-- 🔭 I’m currently working on **a book logging website where a user will be able to add to a To-Be-Read list, log all of the books they read including lots of details (plot twists, character analysis,etc) and search for a new book to read using an API. After the main functions are in order I plan to add a chat/blog function where folks who are reading or have read a certain book are able to talk to each other in a group to form a book club of sorts**
+- 🔭 Snapshot – A full-stack website in which the user can take a picture of a product number or vin and upload the text directly to a database for inventory purposes using OCR. The technologies I am using for this project are HTML, CSS, Javascript, Node.js, Tesseract.js, and MongoDB.**
 
 - 🌱 I’m currently learning **React**
 
